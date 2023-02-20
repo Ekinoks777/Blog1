@@ -1479,3 +1479,8 @@ footer .footer-inner .copyright {
         font-size: 16px;
     }
 }
+
+.img-size{
+    width: 190px;
+    height: 59px;
+}
